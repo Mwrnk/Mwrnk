@@ -10,8 +10,7 @@
 
   <h5>🚀 Skills</h5>
   <div>
-  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
-  <img width="40px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg" />
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,js,react,vue,express,nextjs)](https://skillicons.dev)
   </div>
   I have extensive experience using Adobe Photoshop and Illustrator, and I'm now looking to expand my skills and gain more experience in programming!
   
