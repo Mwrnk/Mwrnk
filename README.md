@@ -8,6 +8,8 @@ I'm currently studying **Systems Analysis and Development**, and in my spare tim
 **PokéSearch** is a web application built with **React**, **Styled Components**, and **Axios**. It fetches data from a public API (PokeAPI) and allows users to efficiently search and filter Pokémon.
 
 ### 🚀 Skills
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=react,vue,nextjs,styledcomponents,tailwind,nodejs,express,npm)](https://skillicons.dev)
 
 
