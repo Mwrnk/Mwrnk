@@ -9,9 +9,9 @@
   is a web application built using React, Styled Components, and Axios. It fetches data from a public API (PokeAPI) and allows users to search and filter items efficiently.
 
   <h5>🚀 Skills</h5>
-  <div>
+  
  [![My Skills](https://skillicons.dev/icons?i=js,html,css,js,react,vue,express,nextjs)](https://skillicons.dev)
-  </div>
+  
   I have extensive experience using Adobe Photoshop and Illustrator, and I'm now looking to expand my skills and gain more experience in programming!
   
   <br></br>
