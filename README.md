@@ -5,7 +5,8 @@
   I'm currently a student of Systems Analysis and Development, and in my spare time, I'm passionate about art and video games!
 
   <h4>💻 Projects</h4>
-  Still looking for projects to expand my portfolio.
+  <h3>PokéSearch</h3>
+  is a web application built using React, Styled Components, and Axios. It fetches data from a public API (PokeAPI) and allows users to search and filter items efficiently.
 
   <h5>🚀 Skills</h5>
   <div>
