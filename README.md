@@ -10,10 +10,9 @@
 
   <h5>🚀 Skills</h5>
   
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vue,express,nextjs,styledcomponents,tailwind)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,node,npm,react,vue,express,nextjs,styledcomponents,tailwind)](https://skillicons.dev)
   
-  I have extensive experience using Adobe Photoshop and Illustrator, and I'm now looking to expand my skills and gain more experience in programming!
-  
+'m a Front-End Developer with solid experience in modern web technologies, specializing in React but also proficient in Vue, Next.js, and Tailwind. I have hands-on experience working with back-end tools like Node.js and Express, which helps me build full-stack applications. My journey started with design, but now I focus on creating responsive, scalable, and user-friendly web applications. Always eager to learn and explore new technologies, I'm passionate about bringing ideas to life on the web. Let's build something amazing together!  
   <br></br>
   Let's stay in touch!
   <div>
