@@ -10,7 +10,7 @@
 
   <h5>🚀 Skills</h5>
   
- [![My Skills](https://skillicons.dev/icons?i=js,html,css,js,react,vue,express,nextjs)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,vue,express,nextjs,styledcomponents,tailwind)](https://skillicons.dev)
   
   I have extensive experience using Adobe Photoshop and Illustrator, and I'm now looking to expand my skills and gain more experience in programming!
   
