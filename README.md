@@ -8,7 +8,8 @@ I'm currently studying **Systems Analysis and Development**, and in my spare tim
 **PokéSearch** is a web application built with **React**, **Styled Components**, and **Axios**. It fetches data from a public API (PokeAPI) and allows users to efficiently search and filter Pokémon.
 
 ### 🚀 Skills
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,npm,react,vue,express,nextjs,styledcomponents,tailwind)](https://skillicons.dev)
+[![Front-End Skills](https://skillicons.dev/icons?i=react,vue,styledcomponents,tailwind)](https://skillicons.dev) 
+[![Back-End Skills](https://skillicons.dev/icons?i=nodejs,npm,express,nextjs)](https://skillicons.dev)
 
 I'm a **Front-End Developer** with extensive experience in modern web technologies, specializing in **React** but also proficient in **Vue**, **Next.js**, and **Tailwind**. I also have hands-on experience with back-end technologies like **Node.js** and **Express**, which helps me build full-stack applications. Starting from a design background, I now focus on crafting **responsive**, **scalable**, and **user-friendly** web experiences. I'm always eager to learn and explore new technologies, and I'm passionate about bringing ideas to life on the web. Let's build something amazing together!
 
