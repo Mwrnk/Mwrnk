@@ -10,7 +10,7 @@ I'm currently studying **Systems Analysis and Development**, and in my spare tim
 ### 🚀 Skills
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=react,vue,nextjs,styledcomponents,tailwind,nodejs,express,npm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,npm)](https://skillicons.dev)
 
 
 I'm a **Front-End Developer** with extensive experience in modern web technologies, specializing in **React** but also proficient in **Vue**, **Next.js**, and **Tailwind**. I also have hands-on experience with back-end technologies like **Node.js** and **Express**, which helps me build full-stack applications. Starting from a design background, I now focus on crafting **responsive**, **scalable**, and **user-friendly** web experiences. I'm always eager to learn and explore new technologies, and I'm passionate about bringing ideas to life on the web. Let's build something amazing together!
