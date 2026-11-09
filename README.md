@@ -16,6 +16,14 @@ In beta for macOS, Windows and Linux.
 
 <br clear="left">
 
+<a href="https://github.com/Mwrnk/kite"><img src="images/kite-icon.png" alt="Kite app icon" width="96" align="left"></a>
+
+**[Kite](https://github.com/Mwrnk/kite)**: a small, fast, native code editor
+for macOS, for people who write code by hand. Built with Swift, AppKit and
+tree-sitter, with a minimal look of its own.
+
+<br clear="left">
+
 ### Other projects
 
 <a href="https://github.com/usediscentia/web-discentia"><img src="images/discentia-icon.png" alt="Discentia app icon" width="96" align="left"></a>
@@ -23,14 +31,6 @@ In beta for macOS, Windows and Linux.
 **[Discentia](https://github.com/usediscentia/web-discentia)**: a study app
 that runs entirely in your browser. Upload your notes, chat with AI about
 them, and turn them into flashcards. [Try it](https://web-discentia.vercel.app).
-
-<br clear="left">
-
-<a href="https://github.com/Mwrnk/kite"><img src="images/kite-icon.png" alt="Kite app icon" width="96" align="left"></a>
-
-**[Kite](https://github.com/Mwrnk/kite)**: a small, fast, native code editor
-for macOS, for people who write code by hand. Built with Swift, AppKit and
-tree-sitter, with a minimal look of its own.
 
 <br clear="left">
 
