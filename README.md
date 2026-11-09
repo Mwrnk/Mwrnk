@@ -3,7 +3,6 @@
 I'm a **Software Engineer** from **Brazil**.
 
 I use this space to build, experiment, and share projects.
-More about me at [mwrnk.dev](https://www.mwrnk.dev).
 
 ### Currently building
 
